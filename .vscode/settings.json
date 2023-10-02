@@ -6,4 +6,7 @@
     ],
     "editor.formatOnSave": true,
     "python.linting.enabled": true,
+    "python.analysis.extraPaths": [
+        "./UnsupervisedSurgery/src"
+    ],
 }

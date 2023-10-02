@@ -4,3 +4,6 @@ Relevant Dependencies:
 - segment-anything
 - torchvision
 - CLIP
+
+Instructions:
+- conda-develop -n UnsupervisedSurgery .
